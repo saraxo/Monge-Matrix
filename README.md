@@ -1,5 +1,6 @@
 # Monge-Matrix
 Data structures and algorithms project - Monge Matrix
+
 This was my uni project for the "Data structures and algorithms" course. My task was to create a class InteresantnaMatrica with two functions. 
 The theme was Monge Array or better Monge matrix.
 
